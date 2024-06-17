@@ -17,16 +17,6 @@ Bem-vindo ao **[RfStudio]**, o seu ponto de referência para tudo relacionado a 
 
 Confira nosso site para explorar todo o conteúdo que oferecemos: [RfStudio](mailto:Rfpds4880@gmail.com)
 
-## Capturas de Tela 📸
-
-### Página Inicial
-
-![Homepage](link_da_imagem_da_pagina_inicial)
-
-### Tutorial de Hacking
-
-![Tutorial](link_da_imagem_do_tutorial)
-
 ## Contribuição 🤝
 
 Adoramos a colaboração e estamos sempre abertos a novas ideias e sugestões. Se você deseja contribuir com conteúdo, corrigir erros ou adicionar novos recursos, siga os passos abaixo:
@@ -43,6 +33,7 @@ Adoramos a colaboração e estamos sempre abertos a novas ideias e sugestões. S
 - **Backend:** Node.js, Express
 - **Banco de Dados:** MongoDB
 - **Hospedagem:** GitHub Pages
+Site em desenvolvimento/beta
 
 ## Entre em Contato 📧
 
@@ -53,5 +44,3 @@ Se você tiver alguma dúvida, sugestão ou apenas quiser bater um papo sobre te
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-
-Espero que este README ajude a dar uma boa impressão do seu site. Não esqueça de substituir os placeholders com o nome real do seu site e adicionar links para imagens reais se você tiver capturas de tela para mostrar.
