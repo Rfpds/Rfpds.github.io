@@ -4,7 +4,8 @@
 
 ## Sobre 🔍
 
-Bem-vindo ao **[RfStudio]**, o seu ponto de referência para tudo relacionado a hacking, tecnologia e programação. Nosso objetivo é fornecer conteúdo de alta qualidade, tutoriais, artigos e recursos para ajudar você a se aprofundar nesses tópicos fascinantes e desafiadores.
+Bem-vindo ao **[RfStudio]**, o seu ponto de referência para tudo relacionado a hacking, tecnologia e programação. Nosso objetivo é fornecer conteúdo de alta qualidade, tutoriais, artigos e recursos para ajudar você a se aprofundar nesses tópicos fascinantes e desafiadores:[Site link](mailto:https://Rfpds.github.io)
+
 
 ## Funcionalidades 🌟
 
@@ -16,8 +17,6 @@ Bem-vindo ao **[RfStudio]**, o seu ponto de referência para tudo relacionado a 
 ## Visite Nosso Site 🌐
 
 Confira nosso site para explorar todo o conteúdo que oferecemos: [RfStudio](mailto:Rfpds4880@gmail.com)
-[Site link](mailto:https://Rfpds.github.io)
-
 
 ## Contribuição 🤝
 
