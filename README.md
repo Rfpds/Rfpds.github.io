@@ -34,6 +34,7 @@ Adoramos a colaboração e estamos sempre abertos a novas ideias e sugestões. S
 - **Backend:** Node.js, Express
 - **Banco de Dados:** MongoDB
 - **Hospedagem:** GitHub Pages
+
 Site em desenvolvimento/beta
 
 ## Entre em Contato 📧
